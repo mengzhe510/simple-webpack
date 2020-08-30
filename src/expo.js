@@ -1,6 +1,6 @@
 export const add = (a,b)=>{
-    console(a+b)
+    return   (a+b)
 }
 export const minus = (a, b) => {
-    console(a - b)
+    return (a - b)
 }

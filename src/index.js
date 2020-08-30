@@ -1,3 +1,4 @@
-import {add} from './expo.js'
-add(1,2)
-console.log('hello webpack')
+import {add} from './expo.js';
+add(1,2);
+console.log('hello webpack');
+'hello webpack'
